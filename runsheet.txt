@@ -1,0 +1,21 @@
+commit: N/A [Informational]
+
+  Author: Lightorius
+  Date:   Wed Jan 29 10:35:00 2014 +1000
+
+    Sandbox fork created (sqladminfork) to test the feasibility of adding further functionality to the CraftedWeb CMS - specifically to include the following;
+
+-+ Specific Features +-
+
+* Generators for in-game objects such as items, quests and events
+* Library of sample scripts (C++, lua/eluna etc)
+* Parse directly from the CMS to the private server
+* PHPMyAdmin (optional DB management tool) inclusion
+
+
+-+ Other CMS features +-
+
+* Categorised and confirmed resolved "Common Issues" knowledgebase incorporated into the CMS gleaned from the EmuDevs forum
+* Minimalistic music player embedded that plays music from World of Warcraft (I have an extensive collection of media for this)
+
+NOTE: This runsheet is a work in progress and is subject to change at a moment's notice. 
